@@ -1,11 +1,11 @@
 # 🎮 Earthector (Old)
 
+<img src="./screenshot.gif?raw=true" alt="Screenshot" align="right">
+
 [![Android](https://img.shields.io/badge/Android-blue?logo=android)](https://github.com/topics/android)
 [![Clickteam Fusion](https://img.shields.io/badge/Clickteam%20Fusion-2.5-blue?logo=cplusplus)](https://github.com/topics/clickteam-fusion)
 
 Earthector is a 2D shooting game.
-
-![Screenshot](./screenshot.gif?raw=true)
 
 ## ▶️ Gameplay
 
